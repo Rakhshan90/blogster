@@ -9,26 +9,14 @@
 
 
 ## Live Link.
-https://blogster-3m69.onrender.com/
+https://blogster-seven.vercel.app/
 
-
-
-
-## Appendix
-
-The REST APIs are all derived from my backend application. Here is the link to the backend source code.
-```
- https://github.com/Rakhshan90/mern-blog-backend
-```
 
 
 ## Demo
 
 
 https://github.com/Rakhshan90/Blogster-Frontend/assets/92143665/06204bb2-d450-4d1a-9796-6954261023c2
-
-
-
 
 
 
@@ -73,9 +61,14 @@ Install my-project
   use git clone command to clone my project repository
 ```
 
+To install dependencies of the project
+```bash
+  cd frontend, yarn install , cd ../backend yarn install 
+```
+
 To Run this app in development mode
 ```bash
-  yarn run dev
+  cd backend, yarn run server, cd ../frontend npm run dev
 ```
     
 ## Challenges
